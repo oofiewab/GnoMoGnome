@@ -1,0 +1,9 @@
+{
+    "name": "GnoMoGnome",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/oofiewab/GnoMoGnome",
+    "description": "A BepInEx plugin/mod for R.E.P.O. that prevents Gnomes from targeting your valuables",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
